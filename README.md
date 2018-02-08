@@ -2,9 +2,11 @@
 
 Do you have a README(.md) that explains the following things?
 
-- [ ] What the software is and does - Project Name and Features or Examples [Description](?focus_description=true)
-- [ ] How to use the software - Requirements, Installation or Getting Started and Usage
-- [ ] How legally the software can be used - License
+- [ ] Description - Add a description to your repository so people understand the goals of your project. (?focus_description=true)
+- [ ] Code of conduct - Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse. (/community/code-of-conduct/new)
+- [ ] Contributing
+- [ ] License
+- [ ] Issue or pull request template
 
 You can remove this section after finishing.
 
